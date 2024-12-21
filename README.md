@@ -1,4 +1,4 @@
-This is A News Web App called - News Monkey
+This is A News Web App using third party News API
 
 How To Run ----</br>
 (1) Run command <b>npm install</b> in the terminal of Project</br>
